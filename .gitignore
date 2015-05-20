@@ -1,6 +1,7 @@
 .vim/bundle/*
 .vim/*
 !.vim/syntax
-!.vim/plugins
+!.vim/plugin
+!.vim/ftplugin
 !.vim/colors
 !.vim/indent
